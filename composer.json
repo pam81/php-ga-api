@@ -1,0 +1,11 @@
+{
+	"description": "API Google Analytics",
+	"name": "php-ga-api",
+  "type": "project",
+  "license": "proprietary",
+	"homepage": "https://github.com/pam81/php-ga-api",
+	"require": {
+    "php": ">=5.3.7",
+		"google/apiclient": "^2.0"
+	}
+}
